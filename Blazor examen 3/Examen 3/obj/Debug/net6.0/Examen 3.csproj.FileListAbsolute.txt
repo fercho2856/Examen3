@@ -1,0 +1,27 @@
+C:\Users\Hp\Documents\periodo 1,2022\lenguaje 3\segundo parcial\Examen 3\Examen3\Blazor examen 3\Examen 3\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Hp\Documents\periodo 1,2022\lenguaje 3\segundo parcial\Examen 3\Examen3\Blazor examen 3\Examen 3\bin\Debug\net6.0\appsettings.json
+C:\Users\Hp\Documents\periodo 1,2022\lenguaje 3\segundo parcial\Examen 3\Examen3\Blazor examen 3\Examen 3\bin\Debug\net6.0\Examen 3.staticwebassets.runtime.json
+C:\Users\Hp\Documents\periodo 1,2022\lenguaje 3\segundo parcial\Examen 3\Examen3\Blazor examen 3\Examen 3\bin\Debug\net6.0\Examen 3.exe
+C:\Users\Hp\Documents\periodo 1,2022\lenguaje 3\segundo parcial\Examen 3\Examen3\Blazor examen 3\Examen 3\bin\Debug\net6.0\Examen 3.deps.json
+C:\Users\Hp\Documents\periodo 1,2022\lenguaje 3\segundo parcial\Examen 3\Examen3\Blazor examen 3\Examen 3\bin\Debug\net6.0\Examen 3.runtimeconfig.json
+C:\Users\Hp\Documents\periodo 1,2022\lenguaje 3\segundo parcial\Examen 3\Examen3\Blazor examen 3\Examen 3\bin\Debug\net6.0\Examen 3.dll
+C:\Users\Hp\Documents\periodo 1,2022\lenguaje 3\segundo parcial\Examen 3\Examen3\Blazor examen 3\Examen 3\bin\Debug\net6.0\Examen 3.pdb
+C:\Users\Hp\Documents\periodo 1,2022\lenguaje 3\segundo parcial\Examen 3\Examen3\Blazor examen 3\Examen 3\obj\Debug\net6.0\Examen 3.csproj.AssemblyReference.cache
+C:\Users\Hp\Documents\periodo 1,2022\lenguaje 3\segundo parcial\Examen 3\Examen3\Blazor examen 3\Examen 3\obj\Debug\net6.0\Examen 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Documents\periodo 1,2022\lenguaje 3\segundo parcial\Examen 3\Examen3\Blazor examen 3\Examen 3\obj\Debug\net6.0\Examen 3.AssemblyInfoInputs.cache
+C:\Users\Hp\Documents\periodo 1,2022\lenguaje 3\segundo parcial\Examen 3\Examen3\Blazor examen 3\Examen 3\obj\Debug\net6.0\Examen 3.AssemblyInfo.cs
+C:\Users\Hp\Documents\periodo 1,2022\lenguaje 3\segundo parcial\Examen 3\Examen3\Blazor examen 3\Examen 3\obj\Debug\net6.0\Examen 3.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Documents\periodo 1,2022\lenguaje 3\segundo parcial\Examen 3\Examen3\Blazor examen 3\Examen 3\obj\Debug\net6.0\Examen 3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hp\Documents\periodo 1,2022\lenguaje 3\segundo parcial\Examen 3\Examen3\Blazor examen 3\Examen 3\obj\Debug\net6.0\Examen 3.RazorAssemblyInfo.cache
+C:\Users\Hp\Documents\periodo 1,2022\lenguaje 3\segundo parcial\Examen 3\Examen3\Blazor examen 3\Examen 3\obj\Debug\net6.0\Examen 3.RazorAssemblyInfo.cs
+C:\Users\Hp\Documents\periodo 1,2022\lenguaje 3\segundo parcial\Examen 3\Examen3\Blazor examen 3\Examen 3\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Hp\Documents\periodo 1,2022\lenguaje 3\segundo parcial\Examen 3\Examen3\Blazor examen 3\Examen 3\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Hp\Documents\periodo 1,2022\lenguaje 3\segundo parcial\Examen 3\Examen3\Blazor examen 3\Examen 3\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\Hp\Documents\periodo 1,2022\lenguaje 3\segundo parcial\Examen 3\Examen3\Blazor examen 3\Examen 3\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\Hp\Documents\periodo 1,2022\lenguaje 3\segundo parcial\Examen 3\Examen3\Blazor examen 3\Examen 3\obj\Debug\net6.0\scopedcss\bundle\Examen 3.styles.css
+C:\Users\Hp\Documents\periodo 1,2022\lenguaje 3\segundo parcial\Examen 3\Examen3\Blazor examen 3\Examen 3\obj\Debug\net6.0\scopedcss\projectbundle\Examen 3.bundle.scp.css
+C:\Users\Hp\Documents\periodo 1,2022\lenguaje 3\segundo parcial\Examen 3\Examen3\Blazor examen 3\Examen 3\obj\Debug\net6.0\Examen 3.dll
+C:\Users\Hp\Documents\periodo 1,2022\lenguaje 3\segundo parcial\Examen 3\Examen3\Blazor examen 3\Examen 3\obj\Debug\net6.0\refint\Examen 3.dll
+C:\Users\Hp\Documents\periodo 1,2022\lenguaje 3\segundo parcial\Examen 3\Examen3\Blazor examen 3\Examen 3\obj\Debug\net6.0\Examen 3.pdb
+C:\Users\Hp\Documents\periodo 1,2022\lenguaje 3\segundo parcial\Examen 3\Examen3\Blazor examen 3\Examen 3\obj\Debug\net6.0\Examen 3.genruntimeconfig.cache
+C:\Users\Hp\Documents\periodo 1,2022\lenguaje 3\segundo parcial\Examen 3\Examen3\Blazor examen 3\Examen 3\obj\Debug\net6.0\ref\Examen 3.dll
