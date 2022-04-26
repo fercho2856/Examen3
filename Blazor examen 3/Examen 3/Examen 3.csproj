@@ -8,6 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Content Remove="Pages\Login.razor" />
     <Content Remove="Pages\Usuarios\Usuarios.razor" />
   </ItemGroup>
 
@@ -16,16 +17,26 @@
   </ItemGroup>
 
   <ItemGroup>
+    <_ContentIncludedByDefault Remove="Pages\Login.razor" />
     <_ContentIncludedByDefault Remove="Pages\Usuarios\Usuarios.razor" />
   </ItemGroup>
 
   <ItemGroup>
+    <None Include="Pages\Login.razor" />
     <None Include="Pages\Usuarios\Usuarios.razor" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CurrieTechnologies.Razor.SweetAlert2" Version="5.2.1" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\Datos\Datos.csproj" />
     <ProjectReference Include="..\Modelos\Modelos.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <UpToDateCheckInput Remove="Pages\Login.razor" />
   </ItemGroup>
 
 </Project>

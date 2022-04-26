@@ -10,10 +10,8 @@ partial class Usuarios
 
     private IEnumerable<Usuario> usuariosLista { get; set; }
 
-    protected override async Task OnInitialize
-    {
-        usuariosLista = await _usuarioServicio.GetLista();
-    }
-
-
+    //protected override async Task OnInitialize
+    //{
+       // usuariosLista = await _usuarioServicio.GetLista();
+    //}
 }

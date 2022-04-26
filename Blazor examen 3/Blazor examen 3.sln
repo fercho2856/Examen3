@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32414.318
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Examen 3", "Examen 3\Examen 3.csproj", "{AD7946F4-8E52-41C2-ADD8-0D31E4310287}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Examen 3", "Examen 3\Examen 3.csproj", "{AD7946F4-8E52-41C2-ADD8-0D31E4310287}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modelos", "Modelos\Modelos.csproj", "{3FE69BBF-6735-4C7C-BA50-397B3B39A048}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modelos", "Modelos\Modelos.csproj", "{3FE69BBF-6735-4C7C-BA50-397B3B39A048}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Datos", "Datos\Datos.csproj", "{C9B07324-F37B-4BDF-BDA3-3FC4D2AD5912}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Datos", "Datos\Datos.csproj", "{C9B07324-F37B-4BDF-BDA3-3FC4D2AD5912}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
